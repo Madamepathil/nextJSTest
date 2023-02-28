@@ -1,0 +1,10 @@
+STATIC GENERATION
+preRendering där html pages är genererade i buld time.
+html med all data uppbygd på sidan är genererad i förväg när 
+vi bygger applikation
+sidan kan byggas engång , cahched cdn och servad till clienten nästan direkt
+ex: blog pages, e-commerse, prodict pages, documention och marketing pages
+
+hur använder vi SSG?
+-per default är vår sida SSG , den prerenderar varje sida i vår app.
+
